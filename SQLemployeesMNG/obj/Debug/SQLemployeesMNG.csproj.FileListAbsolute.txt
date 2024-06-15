@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\bin\Debug\SQLemployeesMNG.exe.config
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\bin\Debug\SQLemployeesMNG.exe
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\bin\Debug\SQLemployeesMNG.pdb
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.Properties.Resources.resources
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.exe
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.pdb
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.empleados.resources
+C:\Users\PC\source\repos\SQLemployeesMNG\SQLemployeesMNG\obj\Debug\SQLemployeesMNG.Form1.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLemployeesMNG", "SQLemployeesMNG\SQLemployeesMNG.csproj", "{F245A2F3-7BE3-4CBD-BED9-5D3AEBF221A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F245A2F3-7BE3-4CBD-BED9-5D3AEBF221A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F245A2F3-7BE3-4CBD-BED9-5D3AEBF221A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F245A2F3-7BE3-4CBD-BED9-5D3AEBF221A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F245A2F3-7BE3-4CBD-BED9-5D3AEBF221A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8332E313-C314-4EEE-A2A6-EBC6E40DFD08}
+	EndGlobalSection
+EndGlobal
